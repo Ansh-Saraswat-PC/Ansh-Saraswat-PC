@@ -26,7 +26,7 @@
 I'm a **Computer Science Engineering student** at GCET, Greater Noida (GPA: 9.12), passionate about building AI-powered tools that solve real-world problems — with a strong focus on **Cybersecurity** and **AI/ML applications**.
 
 - 🛡️ Building apps that protect people from cyber threats
-- 🏆 Hackathon competitor with top rankings across national & international events
+- 🏆 Hackathon competitor with top placements across national & international events
 - 🧑‍💼 Lead of the **Greater Noida Microsoft Fabric User Group**
 - 🚀 Research Intern at **Bharat Space Education Research Center** *(under Ministry of Defence & DRDO)*
 - 🌐 Campus Ambassador at **IIT Delhi**
@@ -106,12 +106,20 @@ I'm a **Computer Science Engineering student** at GCET, Greater Noida (GPA: 9.12
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh-Saraswat-PC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Saraswat-PC&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ansh-Saraswat-PC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Saraswat-PC&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Saraswat-PC&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Ansh-Saraswat-PC&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -133,7 +141,7 @@ I'm a **Computer Science Engineering student** at GCET, Greater Noida (GPA: 9.12
 
 - 🏅 **Google AI Academy 2.0** — Top Performer
 - 📘 **Microsoft Certified** — Microsoft Learn
-- 🌟 **100+ Skill Badges** — Google Skills 
+- 🌟 **100+ Skill Badges** — Google Skills & Microsoft Learn Platform
 
 ---
 
