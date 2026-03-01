@@ -26,9 +26,9 @@
 I'm a **Computer Science Engineering student** at Galgotias College of Engineering and Technology (GPA: 9.12), passionate about building AI-powered tools that solve real-world problems — with a strong focus on **Cybersecurity** and **AI/ML applications**.
 
 - 🛡️ Building apps that protect people from cyber threats
-- 🏆 Hackathon competitor with top placements across national & international events
-- 🚀 Research Intern at **Bharat Space Education Research Center** *(under Ministry of Defence & DRDO)*
+- 🏆 Hackathon competitor with top rankings across national & international events
 - 🧑‍💼 Lead of the **Greater Noida Microsoft Fabric User Group**
+- 🚀 Research Intern at **Bharat Space Education Research Center** *(under Ministry of Defence & DRDO)*
 - 🌐 Campus Ambassador at **IIT Delhi**
 - 💡 Member of **Google Developer Group (GDG)** at GCET
 - 📍 Based in Uttar Pradesh, India
@@ -119,10 +119,10 @@ I'm a **Computer Science Engineering student** at Galgotias College of Engineeri
 ## 💼 Experience
 
 **🔬 Research Intern** — Bharat Space Education Research Center *(Ministry of Defence / DRDO)*
-`Dec 2025 – Present` · Selected as top performer via internal exam
+`Dec 2025 – Jan 2026` · Selected as top performer via internal exam
 
 **🎓 Campus Ambassador** — IIT Delhi
-`Dec 2025 – Jan 2026` · Developed and pitched startup decks with faculty mentorship
+`Dec 2025 – Feb 2026` · Developed and pitched startup decks with faculty mentorship
 
 **🧑‍💼 Lead** — Greater Noida Microsoft Fabric User Group
 `Present` · Community leadership for Microsoft data platform enthusiasts
@@ -132,8 +132,8 @@ I'm a **Computer Science Engineering student** at Galgotias College of Engineeri
 ## 🎓 Certifications & Badges
 
 - 🏅 **Google AI Academy 2.0** — Top Performer
-- 📘 **Fundamental AI Concepts** — Microsoft Learn
-- 🌟 **15+ Skill Badges** — Google Skills & Microsoft Learn Platform
+- 📘 **Microsoft Certified** — Microsoft Learn
+- 🌟 **100+ Skill Badges** — Google Skills 
 
 ---
 
