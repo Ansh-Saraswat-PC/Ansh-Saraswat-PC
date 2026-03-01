@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student** at GCET, Greater Noida (GPA: 9.12), passionate about building AI-powered tools that solve real-world problems — with a strong focus on **Cybersecurity** and **AI/ML applications**.
+I'm a **Computer Science Engineering student** (with GPA: 9.12), passionate about building AI-powered tools that solve real-world problems — with a strong focus on **Cybersecurity** and **AI/ML applications**.
 
 - 🛡️ Building apps that protect people from cyber threats
 - 🏆 Hackathon competitor with top placements across national & international events
